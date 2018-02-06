@@ -1,0 +1,11 @@
+*.gz
+*.aux
+*.fdb_latexmk
+*.log
+*.Rdata
+*.RData
+*.Rhistory
+*.latexmain
+*.out
+*.toc
+*.swp
